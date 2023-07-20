@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:layout_margin="15dp"
+    app:cardCornerRadius="8dp">
+
+    <LinearLayout
+        android:id="@+id/linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="158dp"
+        android:background="@color/cardview_dark_background"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imagephone"
+            android:layout_width="93dp"
+            android:layout_height="134dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:contentDescription="TODO"
+            android:src="@drawable/kuli1"></ImageView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/phonename"
+                android:layout_width="141dp"
+                android:layout_height="wrap_content"
+                android:text="nama"
+                android:textColor="#000000"
+                android:textSize="30sp" />
+
+            <TextView
+                android:id="@+id/phoneprice"
+                android:layout_width="141dp"
+                android:layout_height="wrap_content"
+                android:text="  harga"
+                android:textColor="#000000"
+                android:textSize="24sp">
+
+            </TextView>
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
