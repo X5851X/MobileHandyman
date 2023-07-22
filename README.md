@@ -6,7 +6,7 @@ Aplikasi Pencarian Jasa Kuli berbasis Android Studio
 
         4E - Informatika
         Universitas Singaperbangsa Karawang
-    untuk memenuhi tugas akhir mata kuliah rekayasa perangkat lunak
+        untuk memenuhi tugas akhir mata kuliah rekayasa perangkat lunak
 
 </div>
 
