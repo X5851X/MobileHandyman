@@ -4,9 +4,9 @@ Aplikasi Pencarian Jasa Kuli berbasis Android Studio
 ## Pengembang
 <div align="center">
 
-### 4E - Informatika
-### Universitas Singaperbangsa Karawang
-### untuk memenuhi tugas akhir mata kuliah rekayasa perangkat lunak
+                        4E - Informatika
+                Universitas Singaperbangsa Karawang
+    untuk memenuhi tugas akhir mata kuliah rekayasa perangkat lunak
 
 </div>
 
